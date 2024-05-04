@@ -1,0 +1,5 @@
+@EndUserText.label: 'Phiếu chi o2'
+define service ZFI_PCHI_O2 {
+  expose ZFI_I_PCHI_HEADER;
+  expose ZFI_I_PCHI_ITEM;
+}
